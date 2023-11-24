@@ -1,0 +1,7 @@
+Data do cálculo: 12/10/2020
+CPF: 1212
+Nome: awatra
+IMC: 24,93
+Interpretação: Peso normal
+
+

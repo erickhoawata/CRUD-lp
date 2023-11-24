@@ -1,0 +1,7 @@
+Data do cálculo: 11/02/2002
+CPF: 12345678
+Nome: ba
+IMC: 0,01
+Interpretação: Abaixo do peso
+
+

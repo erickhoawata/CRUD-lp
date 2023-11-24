@@ -1,0 +1,14 @@
+Data do cálculo: 23/11/2023
+CPF: 12121212
+Nome: claudin
+IMC: 45,33
+Interpretação: Obesidade
+
+
+Data do cálculo: 23/11/2023
+CPF: 12121212
+Nome: claudin
+IMC: 45,33
+Interpretação: Obesidade
+
+

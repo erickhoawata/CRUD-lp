@@ -1,0 +1,28 @@
+Data do cálculo: 11/12/2011
+CPF: 098765432
+Nome: bebe
+IMC: 50,42
+Interpretação: Obesidade
+
+
+Data do cálculo: 11/12/2011
+CPF: 098765432
+Nome: bebe
+IMC: 27,70
+Interpretação: Sobrepeso
+
+
+Data do cálculo: 11/12/2011
+CPF: 098765432
+Nome: bebe
+IMC: 24,10
+Interpretação: Peso normal
+
+
+Data do cálculo: 11/12/2011
+CPF: 098765432
+Nome: bebe
+IMC: 11,36
+Interpretação: Abaixo do peso
+
+

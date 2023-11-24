@@ -1,0 +1,14 @@
+Data do cálculo: 23/11/2023
+CPF: 23456789
+Nome: juliana
+IMC: 0,01
+Interpretação: Abaixo do peso
+
+
+Data do cálculo: 23/11/2023
+CPF: 23456789
+Nome: juliana
+IMC: 0,07
+Interpretação: Abaixo do peso
+
+
